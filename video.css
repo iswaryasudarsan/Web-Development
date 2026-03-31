@@ -1,0 +1,65 @@
+
+.container , .container-3 {
+  display: inline-block;
+  margin-left:20px;
+  margin-top: 5px;
+}
+
+.container-1, .container-2, .container-4,
+.container-5 {
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: top;
+  margin-top: 5px;
+}
+
+.thumbnail-1, .thumbnail-2, .thumbnail-3 , .thumbnail-4,
+.thumbnail-5, .thumbnail-6{
+  width: 300px;
+  display: block;
+  margin-bottom: 0;
+}
+
+.video-content {
+  display: block;
+  width: 300px;
+  margin-top: 12px;
+}
+
+.channel-1, .channel-2, .channel-3, .channel-4,
+.channel-5, .channel-6 {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  vertical-align: top;
+}
+
+.video-info {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+p {
+  font-family: Arial;
+}
+
+.AI-info {
+  margin-top: 0;
+  width: 250px;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 22px;
+  margin-bottom: 5px;
+}
+
+.Author {
+  color: gray;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.views {
+  color: gray;
+  font-size: 14px;
+  margin-top: 5px;
+}
